@@ -6,12 +6,12 @@
 define('MAIL_HOST','smtp.lolipop.jp');
 
 // メールユーザー名・アカウント名・メールアドレスを@込でフル記述
-//define('MAIL_USERNAME','ryuki.tech999@gmail.com');
-define('MAIL_USERNAME','info@ryuki999.com');
+//define('MAIL_USERNAME','****************');
+define('MAIL_USERNAME','***********');
 
 // メールパスワード・上で記述したメールアドレスに即したパスワード
-//define('MAIL_PASSWORD','wonder578!');
-define('MAIL_PASSWORD','_S-316-2w__U7_Hb');
+//define('MAIL_PASSWORD','***********');
+define('MAIL_PASSWORD','***********');
 
 // SMTPプロトコル(sslまたはtls)
 define('MAIL_ENCRPT','ssl');
@@ -20,8 +20,8 @@ define('MAIL_ENCRPT','ssl');
 define('SMTP_PORT', 465);
 
 // メールアドレス・ここではメールユーザー名と同じでOK
-//define('MAIL_FROM','ryuki.tech999@gmail.com');
-define('MAIL_FROM','info@ryuki999.com');
+//define('MAIL_FROM','***************');
+define('MAIL_FROM','**************');
 
 // 表示名
 define('MAIL_FROM_NAME','FURUKAWA RYUKI');
