@@ -18,7 +18,7 @@
 ![read1](https://github.com/ryuki999/CrystalOfKnowledge/blob/master/img/read1.JPG)
 
 
-# Dependency
+# Requirement
 PHP 7.3
 
 html
