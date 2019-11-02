@@ -1,10 +1,18 @@
 ![read2](https://github.com/ryuki999/CrystalOfKnowledge/blob/master/img/read2.JPG)
+![read1](https://github.com/ryuki999/CrystalOfKnowledge/blob/master/img/read1.JPG)
 
 # CrystalOfKnowledge
 このソフトはどんなもので、何ができるのかを書く
 合わせて、簡単なデモ（使用例）などスクリーンショットやGIFアニメで表示
 
 # Dependency
+PHP
+html
+Mysql
+
+Install php libraries:
+phpmailer
+
 使用言語とバージョン、必要なライブラリとそのバージョンを書く
 Pythonならrequirements.txtを用意するのも良い
 
