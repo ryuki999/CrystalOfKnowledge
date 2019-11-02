@@ -1,5 +1,4 @@
-最初にアイキャッチ画像などを表示
-![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "read1")
+https://github.com/ryuki999/CrystalOfKnowledge/blob/master/img/read2.JPG
 
 # CrystalOfKnowledge
 このソフトはどんなもので、何ができるのかを書く
