@@ -1,4 +1,4 @@
-https://github.com/ryuki999/CrystalOfKnowledge/blob/master/img/read2.JPG
+![read2](https://github.com/ryuki999/CrystalOfKnowledge/blob/master/img/read2.JPG)
 
 # CrystalOfKnowledge
 このソフトはどんなもので、何ができるのかを書く
