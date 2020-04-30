@@ -11,10 +11,10 @@
   - 5.登録本リスト : ログイン中のユーザが登録している本を一覧表示。
   - 6.登録本詳細 : ログイン中のユーザが登録している本の情報やコメントの確認・編集が出来る。
 
-以下のURLからページに飛べます
-[制作物](https://web-app.ryuki999.com)
-https://web-app.ryuki999.com
-サンプルユーザID:ryuki
+以下のURLからページに飛べます  
+[制作物](https://web-app.ryuki999.com)  
+https://web-app.ryuki999.com  
+サンプルユーザID:ryuki  
 パスワード:ryuki
 
 # Screen shot
