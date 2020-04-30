@@ -11,6 +11,9 @@
   - 5.登録本リスト : ログイン中のユーザが登録している本を一覧表示。
   - 6.登録本詳細 : ログイン中のユーザが登録している本の情報やコメントの確認・編集が出来る。
 
+[制作物](https://web-app.ryuki999.com)
+サンプルユーザID:ryuki
+パスワード:ryuki
 
 # Screen shot
 ![read2](https://github.com/ryuki999/CrystalOfKnowledge/blob/master/img/read2.JPG)
